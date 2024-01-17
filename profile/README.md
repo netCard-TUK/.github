@@ -74,6 +74,6 @@
 ## 🧞 Member
 | Name | 고수민 | 오하민 | 이원찬 | 윤솔휘 |
 | --- | --- | --- | --- | --- |
-| Profile | <img width="140px" src=""> | <img width="140px" src=""> |  |  |
+| Profile | <img width="140px" src="https://avatars.githubusercontent.com/u/80901129?v=4"> | <img width="140px" src="https://avatars.githubusercontent.com/u/113972482?v=4"> | <img width="140px" src="https://avatars.githubusercontent.com/u/105588857?v=4"> | <img width="140px" src="https://github.com/settings/profile"> |
 | Role | Frontend | Backend | Backend | Frontend |
 | gitHub | https://github.com/Gosuke716 | https://github.com/ohamin26 | https://github.com/Leewonchan14 | https://github.com/sori830 |
